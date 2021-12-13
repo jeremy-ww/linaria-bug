@@ -1,0 +1,19 @@
+{
+	"name": "linaria-bug",
+	"version": "1.0.0",
+	"main": "index.js",
+	"author": "Jeremy Wu <jeremy.wu01@sap.com>",
+	"license": "MIT",
+	"scripts": {
+		"build": "webpack"
+	},
+	"dependencies": {},
+	"devDependencies": {
+		"@babel/core": "7.16.0",
+		"webpack-cli": "4.9.1",
+		"@linaria/webpack-loader": "3.0.0-beta.16",
+		"babel-loader": "8.2.3",
+		"thread-loader": "3.0.4",
+		"webpack": "5.65.0"
+	}
+}
