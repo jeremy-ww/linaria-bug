@@ -10,10 +10,14 @@
 	"dependencies": {},
 	"devDependencies": {
 		"@babel/core": "7.16.0",
-		"webpack-cli": "4.9.1",
+		"@linaria/babel-preset": "3.0.0-beta.15",
+		"@linaria/core": "3.0.0-beta.15",
+		"@linaria/react": "3.0.0-beta.15",
+		"@linaria/shaker": "3.0.0-beta.15",
 		"@linaria/webpack-loader": "3.0.0-beta.16",
 		"babel-loader": "8.2.3",
 		"thread-loader": "3.0.4",
-		"webpack": "5.65.0"
+		"webpack": "5.65.0",
+		"webpack-cli": "4.9.1"
 	}
 }
